@@ -17,3 +17,5 @@ F
 tests/idea-nft.test.ts,0/6/06d987d9bd247b94060f1cac1ca5ca7911a987ea
 R
 "contracts/solution-submission.clar,8/6/86e58968c4e8d1a89b35a44b43ce202eeb7aa9f5
+Q
+!tests/solution-submission.test.ts,5/e/5ef36b809b16a9e41827f1edfaea8cd4b230512d
