@@ -11,3 +11,5 @@ P
  contracts/challenge-manager.clar,a/d/ad6647d43af347fffe8c004038d98fccc09c2d83
 O
 tests/challenge-manager.test.ts,f/1/f14b6920f70be98eca9571d56ee92b594fb3b128
+G
+contracts/idea-nft.clar,c/1/c169f8e59e761e55509f48dfac36168e2bdd4978
