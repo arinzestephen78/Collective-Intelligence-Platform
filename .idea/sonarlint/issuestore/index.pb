@@ -5,3 +5,5 @@
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 M
 contracts/ai-integration.clar,b/7/b7b9e7ace0cbbd304b57da5f202a10d9bc7cee26
+L
+tests/ai-integration.test.ts,c/2/c2e3a882f75f215a7020d4407d07f6db8398fe14
