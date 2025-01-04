@@ -15,3 +15,5 @@ G
 contracts/idea-nft.clar,c/1/c169f8e59e761e55509f48dfac36168e2bdd4978
 F
 tests/idea-nft.test.ts,0/6/06d987d9bd247b94060f1cac1ca5ca7911a987ea
+R
+"contracts/solution-submission.clar,8/6/86e58968c4e8d1a89b35a44b43ce202eeb7aa9f5

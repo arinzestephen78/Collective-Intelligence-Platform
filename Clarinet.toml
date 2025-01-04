@@ -19,6 +19,11 @@ epoch = 2.5
 path = 'contracts/idea-nft.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.solution-submission]
+path = 'contracts/solution-submission.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
